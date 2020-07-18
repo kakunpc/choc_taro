@@ -1,3 +1,6 @@
 # ビルドガイド
 
-準備中
+https://kakunpc.github.io/buildguides/choctaro
+
+にて公開しております。
+
